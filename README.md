@@ -5,7 +5,7 @@
 Welcome to my page!\
 I'm Vy and I'm a sophomore studying Information Technology at [Danang University of Science and Technology][dut-website]. I'm hoping to pursue a career working as Backend Developer.
 
-My favorite tools: ![][java-icon] **Java** ![][js-icon] **Javascript** ![][expressjs-icon] **ExpressJs** ![][nestjs-icon] **NestJs**
+My favorite tools: ![][java-icon] **Java** ![][js-icon] **Javascript** ![][expressjs-icon] **ExpressJs** ![][nestjs-icon] **NestJs** ![][spring-icon] **Spring**
 
 ## **👀Where to find me:**
 
@@ -31,7 +31,7 @@ My favorite tools: ![][java-icon] **Java** ![][js-icon] **Javascript** ![][expre
 [js-icon]: https://res.cloudinary.com/dgext7ewd/image/upload/v1617517260/github-profile/javascript_icon_130900_pbys8e.png "Javascript"
 [expressjs-icon]: https://res.cloudinary.com/dgext7ewd/image/upload/v1617517260/github-profile/expressjs_logo_icon_169186_qrztsd.png "ExpressJs"
 [nestjs-icon]: https://res.cloudinary.com/dgext7ewd/image/upload/v1617517260/github-profile/file_type_nestjs_icon_130355_1_zrcrml.png "NestJs"
-
+[spring-icon]: https://symbols.getvecta.com/stencil_96/68_spring-framework-icon.f901b1016d.jpg
 
 <!--
 **hovanvydut/hovanvydut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
